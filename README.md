@@ -23,6 +23,6 @@ Notice they are 3G!
 
 
 
-![Alt text](img/img5.png?raw=true "Title")
+![Alt text](img/img5.PNG?raw=true "Title")
 
 ![Alt text](img/img6.PNG?raw=true "Title")
