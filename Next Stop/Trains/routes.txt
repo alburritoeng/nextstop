@@ -1,0 +1,8 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_url,route_color,route_text_color
+"91 Line","Metrolink","","91 Line",2,"http://www.metrolinktrains.com/schedules/line/name/91%20Line/service_id/1150.html","00A0C4","FFFFFF"
+"Antelope Valley Line","Metrolink","","Antelope Valley Line",2,"http://www.metrolinktrains.com/schedules/line/name/Antelope%20Valley/service_id/1142.html","009987","FFFFFF"
+"Inland Emp.-Orange Co. Line","Metrolink","","Inland Emp.-Orange Co. Line",2,"http://www.metrolinktrains.com/schedules/line/name/Inland%20Emp-Orange%20Co/service_id/1153.html","CE007C","FFFFFF"
+"Orange County Line","Metrolink","","Orange County Line",2,"http://www.metrolinktrains.com/schedules/line/name/Inland%20Emp-Orange%20Co/service_id/1153.html","E66A1F","FFFFFF"
+"Riverside Line","Metrolink","","Riverside Line",2,"http://www.metrolinktrains.com/schedules/line/name/Riverside/service_id/1149.html","6D28AA","FFFFFF"
+"San Bernardino Line","Metrolink","","San Bernardino Line",2,"http://www.metrolinktrains.com/schedules/line/name/San%20Bernardino/service_id/1146.html","AF1E2D","FFFFFF"
+"Ventura County Line","Metrolink","","Ventura County Line",2,"http://www.metrolinktrains.com/schedules/line/name/Ventura%20County/service_id/1141.html","F9D616","000000"
