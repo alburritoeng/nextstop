@@ -1,0 +1,57 @@
+route_id,bathroom,parking,parking_fee,bicycle_racks,waiting_area,contact_info
+Anaheim Canyon Metrolink Station,0,1,0,1,0,(714) 765-5277
+Anaheim Metrolink Station,1,1,0,1,1,(714) 765-5277
+Baldwin Park Metrolink Station,0,1,1,0,0,(626) 813-5255
+Buena Park Metrolink Station,1,1,0,0,0,(714) 562-3655
+Burbank-Bob Hope Airport Metrolink Station,0,1,1,0,0,(916) 654-5291
+Cal State LA Metrolink Station,0,0,0,0,0,(323) 343-5277 / 32
+Camarillo Metrolink Station,0,1,0,0,0,(805) 388-5346
+Chatsworth Metrolink Station,0,1,0,1,1,(866) 633-0068
+Claremont Metrolink Station,0,1,0,1,1,(909) 399-5433
+Commerce Metrolink Station,0,1,0,0,0,(323) 887-4451
+Covina Metrolink Station,0,1,1,1,0,(800) 743-3463
+Downtown Burbank Metrolink Station,1,1,0,1,1,(818) 238-3800
+Downtown Pomona Metrolink Station,0,1,1,0,0,(909) 320-2481
+East Ontario Metrolink Station,0,1,0,0,0,(909) 395-2000
+East Ventura Metrolink Station,0,1,0,0,0,(805) 652-4532
+El Monte Metrolink Station,1,1,0,1,0,(626) 580-2217
+Fontana Metrolink Station,0,1,0,0,0,(909) 350-6760
+Fullerton Metrolink Station,1,1,0,0,1,(714) 738-6877
+Glendale Metrolink Station,1,1,0,0,0,(818) 849-3960
+Industry Metrolink Station,0,1,0,0,0,(626) 333-2211
+Irvine Metrolink Station,1,1,0,1,1,(949) 724-7777
+L. A. Union Station Metrolink Station,1,1,1,1,1,(213)473-3102
+Laguna Niguel/ Mission Viejo Metrolink Station,0,1,0,0,0,(949) 362-4300 /94
+Lancaster Metrolink Station,1,1,0,0,1,(661) 723-6224
+Montclair Metrolink Station,0,1,0,0,1,(909) 448-3606
+Montebello/ Commerce Metrolink Station,0,1,0,1,0,(323) 887-4600
+Moorpark Metrolink Station,0,1,0,0,0,(805) 517-6248
+Newhall Metrolink Station,1,1,0,0,0,(661) 294-1287
+North Main Corona Metrolink Station,0,1,0,0,0,(951) 778-1092
+Northridge Metrolink Station,1,1,0,0,0,(866) 633-0068
+Norwalk/ Santa Fe Springs Metrolink Station,0,1,1,1,0,(562) 929-5550
+Oceanside Metrolink Station,1,1,0,1,0,(760) 966-6500
+Orange Metrolink Station,1,1,0,1,1,(714) 744-5525
+Oxnard Metrolink Station,1,1,0,1,1,(805) 487-4884
+Palmdale Metrolink Station,1,1,0,0,1,(661) 267-5300
+Pedley Metrolink Station,0,1,0,1,0,(951) 778-1092
+Pomona (North) Metrolink Station,0,1,0,0,0,(909) 620-2481
+Rancho Cucamonga Metrolink Station,1,1,0,1,0,(909) 477-2730
+Rialto Metrolink Station,0,1,0,0,0,(909) 820-2684
+Riverside-Downtown Metrolink Station,0,1,0,0,0,(951) 778-1092
+Riverside-La Sierra Metrolink Station,0,1,0,0,0,(951) 778-1092
+San Bernardino Metrolink Station,0,1,0,0,0,(909) 384-5122
+San Clemente Metrolink Station,0,1,1,0,0,(949)361-8200
+San Clemente Pier Metrolink Station,0,1,1,0,0,(949) 361-8200
+San Juan Capistrano Metrolink Station,0,1,1,0,0,(949) 443-6362
+Santa Ana Metrolink Station,0,1,0,0,0,(714) 656-2690
+Santa Clarita Metrolink Station,1,1,0,1,0,(661) 294-1287
+Simi Valley Metrolink Station,0,1,0,0,0,(805) 583-6701
+Sun Valley Metrolink Station,0,1,0,0,0,(866) 633-0068
+Sylmar/San Fernando Metrolink Station,0,1,0,1,0,(866) 633-0068
+Tustin Metrolink Station,0,1,0,0,0,(714) 573-3150
+Upland Metrolink Station,0,1,0,1,0,(909) 291-2940
+Van Nuys Metrolink Station,1,1,0,0,1,(866) 633-0068
+Via Princessa Metrolink Station,1,1,0,0,0,(661) 294-1287
+Vincent Grade/Acton Metrolink Station,0,1,0,0,0,(626) 458-3309
+West Corona Metrolink Station,0,1,0,1,0,(951) 778-1092
